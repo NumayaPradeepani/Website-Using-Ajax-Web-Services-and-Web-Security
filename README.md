@@ -1,5 +1,5 @@
 # Cake shop
->it's mini project for database management(DBMS) using mysql , its basically for wedding arrangment 
+>it's mini project for database management(DBMS) using mysql , its basically for a cake shop
 
 ### Technology used :
          
